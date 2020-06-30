@@ -11,6 +11,3 @@ http.createServer(function (request, response) {
 }).listen(3000);
 console.log('Server running at http://127.0.0.1:3000/');
 
-//  Function that handles the reading of files to the templates that we have and merge in values.
-  // read from file and get a string
-    // merge values in to string
